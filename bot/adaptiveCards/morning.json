@@ -1,0 +1,99 @@
+{
+  "type": "AdaptiveCard",
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "version": "1.5",
+ "body": [
+    {
+      "type": "Container",
+      "items": [
+        {
+          "type": "Image",
+          "url": "${organization.image}",
+          "width": "38px",
+          "height": "38px",
+          "spacing": "None",
+          "horizontalAlignment": "Left"
+        }
+      ],
+      "spacing": "Large",
+      "minHeight": "60px",
+      "verticalContentAlignment": "Center"
+    },
+    {
+      "type": "TextBlock",
+      "text": "${header.title}",
+      "fontType": "Default",
+      "size": "Medium",
+      "wrap": true,
+      "spacing": "Medium",
+      "weight": "Lighter",
+      "color": "Dark"
+    },
+    {
+      "type": "TextBlock",
+      "text": "${activity.name}",
+      "wrap": true,
+      "size": "ExtraLarge",
+      "spacing": "None",
+      "weight": "Bolder",
+      "color": "Accent"
+    },
+    {
+      "type": "Image",
+      "url": "${activity.image}",
+      "width": "400px",
+      "spacing": "medium"
+  },
+  {
+    "type": "TextBlock",
+    "text": "Hello ${meta.userName},",
+    "wrap": true,
+    "size": "ExtraLarge",
+    "spacing": "Medium",
+    "weight": "Lighter",
+    "color": "Accent"
+  },
+  {
+    "type": "TextBlock",
+    "text": "${activity.description}",
+    "wrap": true,
+    "size": "Medium",
+    "spacing": "Medium",
+    "weight": "Lighter",
+    "color": "Dark"
+}, {
+  "type": "Container",
+  "items": [
+      {
+          "type": "TextBlock",
+          "text": "${quote.text}",
+          "wrap": true,
+          "size": "medium",
+          "weight": "Lighter",
+          "color": "Accent",
+          "horizontalAlignment": "Center",
+          "spacing": "None"
+      },
+      {
+          "type": "TextBlock",
+          "text": "${quote.author}",
+          "wrap": true,
+          "size": "small",
+          "color": "Accent",
+          "horizontalAlignment": "Center",
+          "weight": "Default",
+          "spacing": "None"
+      }
+  ],
+  "style": "accent"
+}],
+  "actions": [
+    {
+      "type": "Action.Execute",
+      "title": "${okayButton.label}",
+      "verb": "iCommit",
+      "fallback": "Action.Submit",
+      "data": "${data}"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "personal",
+    "notificationType": "Morning",
+    "message": "Hello Notify",
+    "aadObjectId": "09c86d8d-495d-4219-8b1b-60d8f27acbf1",
+    "email": "ajolie@6mk1fn.onmicrosoft.com",
+    "activity": {
+     "id": 323,
+     "userActivityId": 2009821,
+     "name": "Do you know your privilege?",
+     "image": "https://assets.stg.prohabits.com/activities/mabblytribe__d2ef68e5-b16c-4b06-9a22-51159998d550.jpeg",
+     "description": "Think about your day and pick a small part of your routine that you enjoy, but often experience mindlessly. Maybe it’s grabbing coffee before work or reading a book before bed. Make it your mission to really appreciate this moment today."
+    },
+    "organization": {
+        "id": 2,
+        "image": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABYWlDQ1BrQ0dDb2xvclNwYWNlRGlzcGxheVAzAAAokWNgYFJJLCjIYWFgYMjNKykKcndSiIiMUmB/yMAOhLwMYgwKicnFBY4BAT5AJQwwGhV8u8bACKIv64LMOiU1tUm1XsDXYqbw1YuvRJsw1aMArpTU4mQg/QeIU5MLikoYGBhTgGzl8pICELsDyBYpAjoKyJ4DYqdD2BtA7CQI+whYTUiQM5B9A8hWSM5IBJrB+API1klCEk9HYkPtBQFul8zigpzESoUAYwKuJQOUpFaUgGjn/ILKosz0jBIFR2AopSp45iXr6SgYGRiaMzCAwhyi+nMgOCwZxc4gxJrvMzDY7v////9uhJjXfgaGjUCdXDsRYhoWDAyC3AwMJ3YWJBYlgoWYgZgpLY2B4dNyBgbeSAYG4QtAPdHFacZGYHlGHicGBtZ7//9/VmNgYJ/MwPB3wv//vxf9//93MVDzHQaGA3kAFSFl7jXH0fsAAAA4ZVhJZk1NACoAAAAIAAGHaQAEAAAAAQAAABoAAAAAAAKgAgAEAAAAAQAAACCgAwAEAAAAAQAAACAAAAAAj05AyQAAAv9JREFUWAnFlk+IjHEYx2ewQ2tCEjUHUpu07QU52BxmKeWEUtveSeHg4j45KLUntTd7nT2vuEjZCxcSEiZ/sg5T3IgVEZ/Pa94x8/Z7Z995m+Vbn/f9/Xl+z/O87+/P+xYL2VXCtArHYBQqMAxqCZrwDOZhAb7DQLQNLzOwCHWYhBGIg1OMyrbZp422jnFsbq1lZA1ewzkoQVZp6xjH1kBffcnM78I0lPsa2W3sWH3oK/PbGMO4AVMwKOlLn/ruKbPUcLynVb5Ofeo79U04T74qs10p6dsYwTVRo8P5yqM1DDqYcaAxaklbX4srtpzsyFjfiN3TjLbGMFbXVLhn3TZ51U8CxjCWMSMNcfXg6Gef/xn599pvAsYy5pBzNwEujOWOzgPYVMGE78FtiFVsFXy9J2E3PIc5CPm1zZgTq7h4tnt+p0mbWbgCH6EJF+A6dB7HW6ibmN+JJ7Af7sNmCMmYxi7cgRELKbpIuwnETxmbXaJwtVVxCn7B8VY9vp2hcC2uJO7GNHZ0OHQ+ScKu8JKGDclG6qvhLTiNm+ADJBXPdbLdujEbvt714Oc0JAP7ZJ8CnT9pewM7QZtQAs61MUIy5nBaZzxgHYXtEDy5aN8B7yC3TOAL9JoCg9cgqbM0uOi+JTsy1o255Py5qivwCkJ6QeMumGvha3Wx7YGjkFfGbJqAv1H7IC2Br/S5tw16GMzcJz8PP0B5j1Z0VOu+POqutmt7KRm7cATqFgLaStvDQPsgmoxp7OgIXmzdrXdqpRIoESSK6SJ0Tm/AafhXOkUgYxo7Utrn2G14omUzqFvX59jTTLkVPbOdk1sQy8XlLhikLuPsAdxMOnW/+4X6b79kJuRUNGDcyoDl51zfxuipMXo1nOpp1V+nvvSp70wyS6djGsqZRoSNHKsPfQWfPO1j9J4Bh+AzPAb/4dy7WaWt3wrH6kNf+swlM58BD446TMIIeCTHsmybfdpo65jgU9PeVrFdWr7gU1XB36hRqECcxBLlJni2z8MCtA8Zyqn6DQtUj7DG3Eh6AAAAAElFTkSuQmCC",
+        "name": "Mabbly"
+    },
+    "quote": {
+       "text": "“Enjoy the little things, for one day you may look back and realize they were the big things.”",
+       "author": "Robert Brault"
+    },
+      "okayButton": {
+      "label": "I COMMIT 1"
+     }
+   }

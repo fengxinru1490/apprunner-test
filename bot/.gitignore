@@ -1,0 +1,21 @@
+# dependencies
+node_modules/
+
+# misc
+.env
+.deployment
+.DS_Store
+
+# build
+lib/
+
+/dist/
+yarn-error.log
+npm-debug.log
+package-lock.json
+/coverage
+.vscode
+.vs
+.idea
+.out
+.npmrc

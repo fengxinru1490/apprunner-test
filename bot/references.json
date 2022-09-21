@@ -1,0 +1,202 @@
+{
+  "5701c3f7-6d90-4bd4-898a-ccdda64c66f4": {
+    "activityId": "f:8c110b06-ce31-7665-8380-9e992c140a29",
+    "user": {
+      "id": "29:1YPMB8YOcgicz9WbSpuShZ5XlLR23YAuMDJub42AElVhlfB4RtlPalzyKWw-KRMVXMx7cUBCYA1p8WdcfjMcMhg",
+      "name": "Sergey Cherbadzhy",
+      "aadObjectId": "5701c3f7-6d90-4bd4-898a-ccdda64c66f4"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1SKRIFPJeNEgg4XRv_IVkHe9IDV9n-CZhwWoH96ETeAidcztm8Rl87RPoUDGSwtBfUcUfua2v9mvc6qou3t8LP_5xX6gSmoa_DrX-_fRasvQZ6m1dlivz_PkpdHC1Wv3t"
+    },
+    "channelId": "msteams",
+    "locale": "en-GB",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "363582da-9e5b-42c7-b13d-30578d852004": {
+    "activityId": "f:0d563932-b39e-4d14-9037-188fc1b2034b",
+    "user": {
+      "id": "29:1JYGz7MEqEHNR_riPDgiYB5v3-nhXEM56ld-VPAU_jwUTsLfYTcMsEbb1XvR7VtQd_hkq1QjOeDqiHLT-imRnXg",
+      "aadObjectId": "363582da-9e5b-42c7-b13d-30578d852004"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1OTOJU1I9dfxwM3tkwiR4WY2GKXAbTqdy63_rjSf3lv9t2PDQ-dcDYbxnytJT5AQzRtqRqGqnnrvk0MJCgLM6WUPJgGeO3lTIzABzOJtXusBJkIVGF_936s4vOCBpw7nt"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "e3d50a87-e69e-4ec8-87de-3e0491fc2314": {
+    "activityId": "f:f81fcc2e-c2b8-a85c-37a6-852a7022b146",
+    "user": {
+      "id": "29:1dB7133XZB0FsZgp7C7X5U6wJ6SMC4BhVhnqwGsWNdlzrAWwBaoVKhlseysgU5ielshEfeIcw3wqOQ4MF5DWUIA",
+      "aadObjectId": "e3d50a87-e69e-4ec8-87de-3e0491fc2314"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1jaf7YbKq6Hf563svJlw0A1GjiFr80epA-pAG4_gBSr4fQGOe7uSnkxNDiXIIDqJj3511EpGSY7grZXhip-VUrgfpzftggXqL9ocl9BNaAk89U8_xRBAL-XTXnLYybMyA"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "354598d2-2340-4305-8678-6c9da259f197": {
+    "activityId": "f:075b8844-369e-2e23-68c3-ed9bddd67c38",
+    "user": {
+      "id": "29:1ejbOmmaoS22luE_2mp7ah_CWfc8LkC62cNRfCH5Cq9Cd0dGBSWTjCvYdBCjkor0gSNiQva-OdRhEwdkq15T_BQ",
+      "aadObjectId": "354598d2-2340-4305-8678-6c9da259f197"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1DYZ5yvwoWW_6ebaCXjPKNLLYnxn73QI_efAc8AlH8f8ML3z2PbLSok-H1REzJ93k9Ojkcbz6aZBUfpC_QtijJJ3IjksmLk5JkOlmb9_5Bd6TfzvjpXfVcU3IZWW57ccu"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "a5e700e7-e324-4885-9d26-bac446563448": {
+    "activityId": "f:584a960e-ebd0-52f7-1a2f-dee5fa7593be",
+    "user": {
+      "id": "29:16F4-aqxdAr-NDJrflO9RDsd7EzhjNZ9fU9CxvJnDyOrxzn3_r4wZFDhPU7EMt_Pmi6rirUAIsJrwXj1lxD80fQ",
+      "aadObjectId": "a5e700e7-e324-4885-9d26-bac446563448"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:16vqgMZr-PbAkiqcNP_Cn7SY_QKpCMNLAHI9n-siZQSwmGKZ87UWTF_NjMYzZ0zHN-vwpAEZfIXejlXlEzTGCdbXMFBmKo19dKaABo9FrTPkQfzL3UGzwQI02E0hCVSkC"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "2189b62b-8c8b-4998-bbab-0a17d6ee9572": {
+    "activityId": "f:71f4931e-c179-f023-e98c-43fec0883c62",
+    "user": {
+      "id": "29:1rAxijMxnjTwQkTYnxRBzknHufxIMI5XGP-hgQc7ZdOyh6FyTT8yiP-p5Lkqm48sPSAVisjFxL1hd49FSRfVDIA",
+      "aadObjectId": "2189b62b-8c8b-4998-bbab-0a17d6ee9572"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:15OTFAm6T10AEB_kxTwjIh7PV1bWbPxXJMneIbpfILAR9y7-yu0OaPhS2GLHy5YOqvPLsmyTK4J32hxiPiW-5OfYOuvf4aIg-L8xcHF_ZCdFeaHElCbQMXC-RI9SEj2xp"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "71a105a8-0f90-434b-b88a-34c86c14d4a4": {
+    "activityId": "f:d33e1bb5-82cf-ed57-cbb2-368166bae550",
+    "user": {
+      "id": "29:11gZzwVrM6iM9wavc57-nd2nPWFIkmVn-aNqrDGfBDGfIRLjAw29Yd_Wy8OEUUsHYMKJHXVfT0XTfAigd4ZfC3w",
+      "aadObjectId": "71a105a8-0f90-434b-b88a-34c86c14d4a4"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1RSGgoYyKtZ6TG-h5Fkhljdx87Zyf3pSSUJW-ejd2E2eemMJkppf-Dny1DZLMxRQ6qUKIAXulINejnIr4REBFZ8UFSKJ9Z_idjpEHdPjvbKGXz4waqvHbIWc3R6jx-qdN"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "418eb22b-ba2a-4367-9c36-f4303df5cc38": {
+    "activityId": "f:81520118-bde4-ee46-6fda-164b85acb0f3",
+    "user": {
+      "id": "29:1ZoIDykvUHoAgudmiRR7qht-P35y1AfV6pIlIMwSETdHZkQ94vCTpqgp_Fb5DL4wjJ96IcJyYAOq01NwCjxxlnA",
+      "aadObjectId": "418eb22b-ba2a-4367-9c36-f4303df5cc38"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1VIV8QlMsHzeffN0V0AcsATku8kp7xks8bfa8FcvUoeL1r6ffRdaxcE78OUEMFCGIjNXYpHaLJQgal8BJqgmCO5nXTxOI30kBSg06cH8Q7lyurOVyD6mWJYAQEDPi-toH"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "d238b217-bbc0-424a-b10f-35b1eacf8556": {
+    "activityId": "f:86e40103-eeb1-3ab7-e6ca-4f548268d130",
+    "user": {
+      "id": "29:18NqzzkgwNO0qF6mpkaZASZrOfLBNm3-QEoHBgwpTfeiq7cZgJgq9a3leD4dLcE8waKtckK3ouiE1Cdx1Mqa7rQ",
+      "aadObjectId": "d238b217-bbc0-424a-b10f-35b1eacf8556"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:17fqFAgTVHv_0Tf-v6Y6pvBVN7dc325PKGWtcsX7pWCh60YHE8yQP2rzqgEfDbfOvKLrbaqqObKsYRDwOFoo-xFh1KsRaXvxengT9ghn4wJSnX3CTC07GTzFg7OYof6iC"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "09c86d8d-495d-4219-8b1b-60d8f27acbf1": {
+    "activityId": "f:5e5ca6f2-8450-22d3-84f3-176f014a2cc0",
+    "user": {
+      "id": "29:15F6rS5epw-qUgmR5G7XtaafYnCYlguVWparhaUajJBgdymIkihia6mphDwLAFIqxAqggNkCQUk7MQG8zQzbBAw",
+      "aadObjectId": "09c86d8d-495d-4219-8b1b-60d8f27acbf1"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1zj1HNDcAFiWdDK4YiOd0RRM4A7tO8WyckK8rkbkxW5KA0_x4OYE3phEjuju-7QM_yLvlmGOQtR_nrxHgMzVyaZByqS22qf-DXAxYbKfVrioquuqflmgNUHe4_3QYxpe8"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  },
+  "84b36623-7296-43be-930d-fd619a8421c4": {
+    "activityId": "f:e93e2bc5-d095-935d-877e-0e99556af393",
+    "user": {
+      "id": "29:1H3VvgKRfRlogl-06GD_BH84sj0-6cgOJ60LKC4PhAEE00Ai9o3L4p9lQHDXVgkzIGvQDusv-tEyyCHk3FicXfg",
+      "aadObjectId": "84b36623-7296-43be-930d-fd619a8421c4"
+    },
+    "bot": {
+      "id": "28:331df719-bfd2-4fcc-aa91-f08bc21a702f",
+      "name": "app-local-debug"
+    },
+    "conversation": {
+      "conversationType": "personal",
+      "tenantId": "f8ed7ee1-1d5c-48b5-b6c3-6a31e6fc84b7",
+      "id": "a:1Q3FrLTzhnSsJp3EBR6yYMba_v-WwkjAMuzHUZZ6i1AN4zslxRe3sfs3bNrbYWDqwW_7tyTlbCd7o4rSx_KtsOvZsODKxDFicFch6dPStzlnrue_gYcsIlhBv_8fZcPGi"
+    },
+    "channelId": "msteams",
+    "serviceUrl": "https://smba.trafficmanager.net/amer/"
+  }
+}

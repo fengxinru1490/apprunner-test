@@ -1,0 +1,20 @@
+{
+    "name": "app",
+    "version": "0.0.1",
+    "description": "",
+    "author": "",
+    "main": "index.js",
+    "scripts": {
+        "i": "yarn install && cd tabs && yarn install && cd ../bot && yarn install",
+        "start": "node index.js"
+    },
+    "devDependencies": {
+        "@microsoft/teamsfx-cli": "1.*"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "aws-lambda": "^1.0.7",
+        "uuid": "^8.3.2",
+        "express": "^4.17.1"
+    }
+}
