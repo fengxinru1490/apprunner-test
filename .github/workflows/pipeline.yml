@@ -1,0 +1,37 @@
+name: Deploy to App Runner - Source # Name of the workflow
+on:
+  push:
+    branches: [ main ] # Trigger workflow on git push to main branch
+  workflow_dispatch: # Allow manual invocation of the workflow
+
+jobs:  
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:            
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1 # Configure with AWS Credentials
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.AWS_REGION }}
+          
+      - name: Deploy to App Runner
+        id: deploy-apprunner
+        uses: awslabs/amazon-app-runner-deploy@main # Deploy app runner service
+        with:
+          service: app-runner-git-deploy-service
+          source-connection-arn: ${{ secrets.AWS_CONNECTION_SOURCE_ARN }}
+          repo: https://github.com/fengxinru1490/apprunner-test
+          branch: ${{ github.ref }}
+          runtime: NODEJS_12
+          build-command: npm install
+          start-command: npm start
+          port: 18000
+          region: ${{ secrets.AWS_REGION }}
+          cpu : 1
+          memory : 2
+          wait-for-service-stability: true
+      
+      - name: App Runner output
+        run: echo "App runner output ${{ steps.deploy-apprunner.outputs.service-id }
