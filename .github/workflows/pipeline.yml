@@ -22,7 +22,7 @@ jobs:
         with:
           service: app-runner-git-deploy-service
           source-connection-arn: ${{ secrets.AWS_CONNECTION_SOURCE_ARN }}
-          repo: https://github.com/fengxinru1490/apprunner-test
+          repo: https://github.com/${{ github.repository }}
           branch: ${{ github.ref }}
           runtime: NODEJS_12
           build-command: npm install
