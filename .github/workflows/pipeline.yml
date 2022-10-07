@@ -20,7 +20,7 @@ jobs:
         id: deploy-apprunner
         uses: awslabs/amazon-app-runner-deploy@main # Deploy app runner service
         with:
-          service: app-runner-git-deploy-service
+          service: app-runner-git-deploy-service2
           source-connection-arn: arn:aws:apprunner:us-east-1:885656451723:connection/apprunner-test/4ca52831294f433fa9387f540137209c
           repo: https://github.com/fengxinru1490/apprunner-test
           branch: ${{ github.ref }}
