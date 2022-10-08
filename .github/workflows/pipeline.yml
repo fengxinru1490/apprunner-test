@@ -20,13 +20,13 @@ jobs:
         id: deploy-apprunner
         uses: awslabs/amazon-app-runner-deploy@main # Deploy app runner service
         with:
-          service: app-runner-git-deploy-service2
+          service: app-runner-git-deploy-service3
           source-connection-arn: arn:aws:apprunner:us-east-1:885656451723:connection/apprunner-test/4ca52831294f433fa9387f540137209c
           repo: https://github.com/fengxinru1490/apprunner-test
           branch: ${{ github.ref }}
           runtime: NODEJS_12
-          build-command: cd bot && yarn install && yarn run build
-          start-command: cd bot && yarn run start
+          build-command: yarn install && yarn run build
+          start-command: yarn run start
           port: 3978
           region: ${{ secrets.AWS_REGION }}
           cpu : 1
